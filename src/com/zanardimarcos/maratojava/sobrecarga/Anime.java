@@ -7,6 +7,11 @@ public class Anime {
     private int epsodios;
     private String genero;
 
+    //CONSTRUTOR VAZIO
+    public Anime(){
+
+    }
+
 // construtor, serve para inicializar um objeto ja recebendo algum parametro
     public Anime(String nome, int ep, String genero){
         this.nome = nome;
