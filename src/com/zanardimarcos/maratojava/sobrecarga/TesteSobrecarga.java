@@ -11,7 +11,7 @@ public class TesteSobrecarga {
         anime.init("saske",12);
         System.out.println(anime);
 
-        //chamando o metodo sobrecarga do init,igual o primeiro init com mais parametros
+        //chamando metodo sobrecarga do metodo inicial com novos parametros
         anime.init("Sakura","susuke",15,"feminino");
         System.out.println(anime);
 
