@@ -10,3 +10,7 @@ Sua principal importância está em evitar código duplicado entre vários const
 modificador de acesso statico faz com que o atributo pertencer a classe e todos os objetos vao compartilhar do mesmo valor.
 
 
+### Metodos estaticos 
+Criar um metodo estatico quando os metodos nao acessam uma varial/atributo da classe
+
+
